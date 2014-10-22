@@ -41,7 +41,7 @@ This option defines site language localization and is used in the localization m
 this block is used for the integration with Jira issue tracking system. If you don`t use this mechanism, just leave the lines blank.
 
 #Version control
-This block of settings is responsible for the version control system settings. F or the current moment version system control works with the classes implementing Ifeature,IIntegrationService interfaces.
+This block of settings is responsible for the version control system settings. For the current moment version system control works with the classes implementing Ifeature,IIntegrationService interfaces.
 The marker interface for this mechanism is IversionControl interface.
 If you don`t want to use this mechanism at the moment, you can set the following values:
 app.version=1
